@@ -1,7 +1,7 @@
 {
-    "name": "𓆩᪵𝐓ᴏxɪ𝐂🌿⃤𝐌𝐔𝐒𝐈𝐂𓆪̥乛[🇮🇳]™",
+    "name": "𓆩❥ ⃝⃪⃕🦋̶⍣⃪͜ 🇫𝐀𝐈𝐑𝐘─⃛͢✘─⃛͢🇲𝐔𝐒𝐈𝐂─⃛͢─̶̶⃛͢⃝🦋",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/1130f393e046f9f2280c6.jpg",
+    "logo": "https://graph.org/file/faed03246d27b41973111.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "𓆩᪵𝐓ᴏxɪ𝐂🌿⃤𝐌𝐔𝐒𝐈𝐂𓆪̥乛[🇮🇳]™",
+        "value": "𓆩❥ ⃝⃪⃕🦋̶⍣⃪͜ 🇫𝐀𝐈𝐑𝐘─⃛͢✘─⃛͢🇲𝐔𝐒𝐈𝐂─⃛͢─̶̶⃛͢⃝🦋",
         "required": true
       },
       "OWNER_ID": {
